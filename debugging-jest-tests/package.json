@@ -4,7 +4,9 @@
   "description": "This recipe shows how to use the built-in Node Debugger to debug Jest tests",
   "license": "ISC",
   "author": "Jag Reehal",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "jest": "22.0.4"
   }

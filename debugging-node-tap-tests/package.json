@@ -4,7 +4,9 @@
   "description": "This recipe shows how to use the built-in Node Debugger to debug TAP tests",
   "license": "ISC",
   "author": "Kamat, Trivikram",
-  "scripts": {},
+  "scripts": {
+    "test": "tap"
+  },
   "dependencies": {
     "tap": "12.0.0"
   }
