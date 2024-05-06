@@ -26,7 +26,7 @@
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"dependencies": {
-		"tap": "18.7.2"
+		"tap": "18.7.3"
 	},
 	"devDependencies": {
 		"@playform/build": "0.0.7",
