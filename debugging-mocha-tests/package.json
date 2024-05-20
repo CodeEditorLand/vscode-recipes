@@ -1,14 +1,14 @@
 {
-	"name": "vscode-recipes-debugging-mocha-tests",
-	"description": "This recipe shows how to use the built-in Node Debugger to debug Mocha tests",
-	"scripts": {
-		"Document": "Document 'Source/**/*.ts'",
-		"prepublishOnly": "Build 'Source/**/*.ts'"
-	},
-	"dependencies": {
-		"chai": "5.1.0"
-	},
-	"devDependencies": {
-		"@playform/build": "0.0.7"
-	}
+  "name": "vscode-recipes-debugging-mocha-tests",
+  "version": "1.0.0",
+  "description": "This recipe shows how to use the built-in Node Debugger to debug Mocha tests",
+  "scripts": {
+    "test": "mocha 'test/**/*.spec.js'"
+  },
+  "author": "Jag Reehal",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.1.2",
+    "mocha": "4.1.0"
+  }
 }
