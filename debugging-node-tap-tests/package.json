@@ -3,6 +3,6 @@
 	"description": "This recipe shows how to use the built-in Node Debugger to debug TAP tests",
 	"scripts": {},
 	"dependencies": {
-		"tap": "19.0.0"
+		"tap": "19.0.1"
 	}
 }
