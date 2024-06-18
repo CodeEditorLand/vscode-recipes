@@ -3,6 +3,6 @@
 	"description": "This recipe shows how to use the built-in Node Debugger to debug Mocha tests",
 	"scripts": {},
 	"dependencies": {
-		"chai": "4.1.2"
+		"chai": "5.1.1"
 	}
 }
