@@ -1,6 +1,0 @@
-{
-	"name": "vscode-recipes-debugging-jest-tests",
-	"description": "This recipe shows how to use the built-in Node Debugger to debug Jest tests",
-	"scripts": {},
-	"dependencies": {}
-}
