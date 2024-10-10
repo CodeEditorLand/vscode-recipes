@@ -1,8 +1,8 @@
 {
-	"name": "vscode-recipes-debugging-tap-tests",
-	"description": "This recipe shows how to use the built-in Node Debugger to debug TAP tests",
-	"scripts": {},
 	"dependencies": {
 		"tap": "21.0.1"
-	}
+	},
+	"description": "This recipe shows how to use the built-in Node Debugger to debug TAP tests",
+	"name": "vscode-recipes-debugging-tap-tests",
+	"scripts": {}
 }
