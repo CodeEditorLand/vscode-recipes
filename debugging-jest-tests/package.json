@@ -1,7 +1,7 @@
 {
-	"dependencies": {},
-	"description": "This recipe shows how to use the built-in Node Debugger to debug Jest tests",
-	"devDependencies": {},
 	"name": "@codeeditorland/recipes-debugging-jest-tests",
-	"scripts": {}
+	"description": "This recipe shows how to use the built-in Node Debugger to debug Jest tests",
+	"scripts": {},
+	"dependencies": {},
+	"devDependencies": {}
 }
