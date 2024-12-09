@@ -1,8 +1,9 @@
 {
+	"name": "@codeeditorland/recipes-debugging-mocha-tests",
+	"description": "This recipe shows how to use the built-in Node Debugger to debug Mocha tests",
+	"scripts": {},
 	"dependencies": {
 		"chai": "5.1.2"
 	},
-	"description": "This recipe shows how to use the built-in Node Debugger to debug Mocha tests",
-	"name": "vscode-recipes-debugging-mocha-tests",
-	"scripts": {}
+	"devDependencies": {}
 }
